@@ -4,3 +4,5 @@
 
 ## Ignore IDE files
 *.iml
+/PostgreConnectorJS/node_modules/
+/MongoConnectorJS/node_modules/
