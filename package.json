@@ -1,0 +1,11 @@
+{
+  "name": "Templates",
+  "version": "1.0.0",
+  "devDependencies": {
+    "eslint": "^9.24.0",
+    "eslint-config-google": "^0.14.0"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  }
+}

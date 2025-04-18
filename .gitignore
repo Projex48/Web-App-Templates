@@ -1,0 +1,6 @@
+/node_modules/
+/EXA/node_modules/
+/.idea/
+
+## Ignore IDE files
+*.iml

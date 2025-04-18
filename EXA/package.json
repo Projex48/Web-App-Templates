@@ -1,0 +1,7 @@
+{
+  "name": "EXA",
+  "version": "1.0.0",
+  "dependencies": {
+    "argon2": "^0.41.1"
+  }
+}
