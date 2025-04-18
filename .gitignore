@@ -6,3 +6,4 @@
 *.iml
 /PostgreConnectorJS/node_modules/
 /MongoConnectorJS/node_modules/
+/FileHandlerJS/node_modules/
